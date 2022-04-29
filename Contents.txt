@@ -1,0 +1,8 @@
+***************************************************
+This project is dedicated to studying and summarizing
+computer algorithms in C++.
+***************************************************
+
+                    CONTENTS
+***************************************************
+______Folder_Name________|______Discription________
